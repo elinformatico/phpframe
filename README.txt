@@ -4,6 +4,7 @@ I will like to get more developers to colaborate in this fantastic project :)
 
 My personal data is:
 
-email: donoe1985@gmail.com
-Country: Guadalajara, Jalisco, Mexico
+* email: donoe1985@gmail.com
+* Country: Guadalajara, Jalisco, Mexico
+
 
